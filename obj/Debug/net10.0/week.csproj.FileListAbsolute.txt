@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Новая папка (2)\week\bin\Debug\net10.0\week.exe
+C:\Users\user\Desktop\Новая папка (2)\week\bin\Debug\net10.0\week.deps.json
+C:\Users\user\Desktop\Новая папка (2)\week\bin\Debug\net10.0\week.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (2)\week\bin\Debug\net10.0\week.dll
+C:\Users\user\Desktop\Новая папка (2)\week\bin\Debug\net10.0\week.pdb
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\week.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\week.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\week.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\week.dll
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\refint\week.dll
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\week.pdb
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\week.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (2)\week\obj\Debug\net10.0\ref\week.dll
